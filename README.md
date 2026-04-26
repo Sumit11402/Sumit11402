@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Sumit11402/Sumit11402/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sumit Rajpurohit</h1>
 <h3 align="center">Engineering the next generation of intelligent systems 🚀</h3>
 
